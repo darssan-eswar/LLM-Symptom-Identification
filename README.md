@@ -1,4 +1,4 @@
-# Symptom Extraction from Mental Health Stories
+## Text Extraction/Classification of User Posts
 
 This repository contains a set of Jupyter notebooks designed to extract symptoms from mental health stories using poopular open-source large language models.
 
