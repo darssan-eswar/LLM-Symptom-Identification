@@ -8,7 +8,7 @@ The primary goal of this project is to utilize AI models to extract and categori
 
 **Key Features**:
 - **JSON Input and Output**: The notebooks handle JSON objects containing mental health stories, extracting specific sentences linked to various symptoms.
-- **AI-Based Text Extraction**: Utilized the @groq API to process JSON objects containing mental health stories and extract symptoms based on the GAD-7 and PHQ-9 questionnaires. Each script contains an AI-generated case used for prompting.
+- **AI-Based Text Extraction**: Utilized the [GROQ API](https://groq.com) to process JSON objects containing mental health stories and extract symptoms based on the GAD-7 and PHQ-9 questionnaires. Each script contains an AI-generated case used for prompting.
 - **Automation and Scalability**: The provided notebooks can be scaled to process large datasets, allowing for efficient extraction of symptom-related data.
 
 ## Files Included
